@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Windows.Forms;
 
 namespace MiCalculadora
 {
@@ -47,6 +48,7 @@ namespace MiCalculadora
             // 
             // txtNumero1
             // 
+            this.txtNumero1.BackColor = System.Drawing.Color.White;
             this.txtNumero1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNumero1.Location = new System.Drawing.Point(47, 100);
             this.txtNumero1.Name = "txtNumero1";
@@ -142,10 +144,13 @@ namespace MiCalculadora
             // 
             // lblResultado
             // 
+            this.lblResultado.BackColor = System.Drawing.Color.LightGray;
+            this.lblResultado.CausesValidation = false;
             this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResultado.Location = new System.Drawing.Point(188, 28);
+            this.lblResultado.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.lblResultado.Location = new System.Drawing.Point(262, 28);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(400, 42);
+            this.lblResultado.Size = new System.Drawing.Size(326, 42);
             this.lblResultado.TabIndex = 4;
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
@@ -165,6 +170,7 @@ namespace MiCalculadora
             this.Controls.Add(this.txtNumero2);
             this.Controls.Add(this.txtNumero1);
             this.Name = "FormCalculadora";
+            this.Opacity = 0.9D;
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
             this.Text = "Calculadora de Mazzucchelli Juan del curso 2°A";
             this.ResumeLayout(false);

@@ -13,6 +13,7 @@ namespace MiCalculadora
             InitializeComponent();
             this.StartPosition = FormStartPosition.CenterScreen;
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
+            cmbOperador.SelectedIndex = 0;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
         }
