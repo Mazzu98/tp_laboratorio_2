@@ -26,16 +26,16 @@ namespace Entidades
             switch (operadorValido)
             {
                 case "+":
-                    ret = num1.OperacionSumar(num1, num2);
+                    ret = num1 + num2;
                     break;
                 case "-":
-                    ret = num1.OperacionRestar(num1, num2);
+                    ret = num1 - num2;
                     break;
                 case "/":
-                    ret = num1.OperacionDividir(num1, num2);
+                    ret = num1 / num2;
                     break;
                 case "*":
-                    ret = num1.OperacionMultiplicar(num1, num2);
+                    ret = num1 * num2;
                     break;
             }
             return ret;

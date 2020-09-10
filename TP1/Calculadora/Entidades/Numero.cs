@@ -103,24 +103,24 @@ namespace Entidades
             return binario;
         }
 
-        private static string Reverse(string s)
+        private static string Reverse(string str)
         {
-            char[] charArray = s.ToCharArray();
+            char[] charArray = str.ToCharArray();
             Array.Reverse(charArray);
             return new string(charArray);
         }
 
-        public double OperacionSumar(Numero n1, Numero n2)
+        public static double operator +(Numero n1, Numero n2)
         {
             return n1.numero + n2.numero;
         }
 
-        public double OperacionRestar(Numero n1, Numero n2)
+        public static double operator -(Numero n1, Numero n2)
         {
             return n1.numero - n2.numero;
         }
 
-        public double OperacionDividir(Numero n1, Numero n2)
+        public static double operator /(Numero n1, Numero n2)
         {
             if (n2.numero == 0)
             {
@@ -129,7 +129,7 @@ namespace Entidades
             return n1.numero / n2.numero;
         }
 
-        public double OperacionMultiplicar(Numero n1, Numero n2)
+        public static double operator *(Numero n1, Numero n2)
         {
             return n1.numero * n2.numero;
         }
