@@ -45,13 +45,13 @@ namespace MiCalculadora
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
             Numero numero = new Numero();
-            lblResultado.Text = numero.DecimalBinario(txtNumero1.Text);
+            lblResultado.Text = numero.DecimalBinario(lblResultado.Text);
         }
 
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
             Numero numero = new Numero();
-            lblResultado.Text = numero.BinarioDecimal(txtNumero1.Text);
+            lblResultado.Text = numero.BinarioDecimal(lblResultado.Text);
         }
     }
 }
