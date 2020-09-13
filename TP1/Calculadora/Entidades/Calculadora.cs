@@ -2,7 +2,7 @@
 
 namespace Entidades
 {
-    public class Calculadora
+    public static class Calculadora
     {
         private static string ValidarOperador(char operador)
         {
