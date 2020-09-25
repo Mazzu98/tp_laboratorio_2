@@ -15,7 +15,7 @@ namespace Entidades
         /// <summary>
         /// Las camionetas son grandes
         /// </summary>
-        public override ETamanio Tamanio { get => ETamanio.Grande; }
+        public new ETamanio Tamanio { get => ETamanio.Grande; }
 
         public override sealed string Mostrar()
         {

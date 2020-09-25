@@ -17,7 +17,7 @@ namespace Entidades
         /// Las motos son chicas
         /// </summary>
         /// 
-        public override ETamanio Tamanio { get => ETamanio.Chico ;}
+        public new ETamanio Tamanio { get => ETamanio.Chico ;}
 
         public override sealed string Mostrar()
         {
