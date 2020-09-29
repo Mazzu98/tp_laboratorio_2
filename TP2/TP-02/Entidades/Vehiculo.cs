@@ -44,6 +44,24 @@ namespace Entidades
             return (string)this;
         }
 
+        public override bool Equals(object obj)
+        {
+            bool ret = false;
+            if(obj is Vehiculo)
+            {
+                if(this == (Vehiculo)obj)
+                {
+                    ret = true;
+                }
+            }
+            return ret;
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
         public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();

@@ -35,7 +35,7 @@ namespace Entidades
         /// <summary>
         /// Los automoviles son medianos
         /// </summary>
-        public new ETamanio Tamanio { get => ETamanio.Mediano; }
+        public override ETamanio Tamanio { get => ETamanio.Mediano; }
 
         public override sealed string Mostrar()
         {
