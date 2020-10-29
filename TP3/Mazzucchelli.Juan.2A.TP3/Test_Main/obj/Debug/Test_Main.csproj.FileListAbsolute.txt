@@ -1,0 +1,16 @@
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\bin\Debug\Test_Main.exe.config
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\bin\Debug\Test_Main.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\bin\Debug\Test_Main.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\bin\Debug\Archivos.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\bin\Debug\Clases Abstractas.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\bin\Debug\Clases Instanciables.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\bin\Debug\Excepciones.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\bin\Debug\Archivos.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\bin\Debug\Clases Abstractas.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\bin\Debug\Clases Instanciables.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\bin\Debug\Excepciones.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\obj\Debug\Test_Main.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\obj\Debug\Test_Main.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\obj\Debug\Test_Main.csproj.CopyComplete
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\obj\Debug\Test_Main.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Test_Main\obj\Debug\Test_Main.pdb

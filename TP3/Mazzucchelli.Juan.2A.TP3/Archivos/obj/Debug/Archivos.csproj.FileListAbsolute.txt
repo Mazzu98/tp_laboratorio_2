@@ -1,0 +1,9 @@
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Archivos\bin\Debug\Archivos.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Archivos\obj\Debug\Archivos.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete

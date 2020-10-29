@@ -1,0 +1,38 @@
+﻿JORNADA:
+CLASES DE Laboratorio POR NOMBRE COMPLETO: Lopez,Juan
+NACIONALIDAD: Argentino
+LEGAJO NúMERO: 1
+CLASES DEL DIA: 
+Laboratorio
+Legislacion
+
+NOMBRE COMPLETO: Suarez,Joaquin
+NACIONALIDAD: Extranjero
+LEGAJO NúMERO: 7
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE Laboratorio
+
+
+<------------------------------------------------------------------>
+CLASES DE Legislacion POR NOMBRE COMPLETO: Lopez,Juan
+NACIONALIDAD: Argentino
+LEGAJO NúMERO: 1
+CLASES DEL DIA: 
+Laboratorio
+Legislacion
+
+NOMBRE COMPLETO: Hernandez,Miguel
+NACIONALIDAD: Extranjero
+LEGAJO NúMERO: 4
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE Legislacion
+
+NOMBRE COMPLETO: Smith,Rodrigo
+NACIONALIDAD: Argentino
+LEGAJO NúMERO: 8
+ESTADO DE CUENTA: AlDia
+TOMA CLASES DE Legislacion
+
+
+<------------------------------------------------------------------>
+

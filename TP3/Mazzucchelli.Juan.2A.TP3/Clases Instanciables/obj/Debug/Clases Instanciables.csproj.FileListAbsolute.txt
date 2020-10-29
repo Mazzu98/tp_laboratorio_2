@@ -1,0 +1,13 @@
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP3\Mazzucchelli.Juan.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
