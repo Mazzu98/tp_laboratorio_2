@@ -12,5 +12,10 @@ namespace Excepciones
             : base("No hay Profesor para la clase.")
         {
         }
+
+        public SinProfesorException(string mensaje)
+            : base(mensaje)
+        {
+        }
     }
 }

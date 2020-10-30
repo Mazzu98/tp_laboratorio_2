@@ -19,11 +19,42 @@ namespace Test_Unitarios
             }
             catch(NullReferenceException e)
             {
-                
                 Assert.Fail("La lista Alumnos de Universidad no fue instanciada");
             }
            
             
+        }
+
+        [TestMethod]
+        public void Lista_Jornada()
+        {
+            try
+            {
+                Universidad universidad = new Universidad();
+                Assert.IsNotNull(universidad.Jornada);
+            }
+            catch (NullReferenceException e)
+            {
+                Assert.Fail("La lista Alumnos de Universidad no fue instanciada");
+            }
+
+
+        }
+
+        [TestMethod]
+        public void Lista_Profesores()
+        {
+            try
+            {
+                Universidad universidad = new Universidad();
+                Assert.IsNotNull(universidad.Profesores);
+            }
+            catch (NullReferenceException e)
+            {
+                Assert.Fail("La lista Alumnos de Universidad no fue instanciada");
+            }
+
+
         }
     }
 }

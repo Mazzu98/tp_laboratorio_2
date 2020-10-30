@@ -74,8 +74,6 @@ namespace Clases_Instanciables
             }
             
             return sb.ToString();
-
-            //TODO: Modificar
         }
 
         /// <summary>

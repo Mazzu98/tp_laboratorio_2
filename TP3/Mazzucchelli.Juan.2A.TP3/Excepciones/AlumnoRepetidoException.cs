@@ -12,5 +12,10 @@ namespace Excepciones
            : base("Alumno Repetido.")
         {
         }
+
+        public AlumnoRepetidoException(string mensaje)
+           : base(mensaje)
+        {
+        }
     }
 }

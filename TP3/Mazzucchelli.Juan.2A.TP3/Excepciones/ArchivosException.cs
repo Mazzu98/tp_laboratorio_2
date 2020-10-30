@@ -8,9 +8,14 @@ namespace Excepciones
 {
     public class ArchivosException : Exception
     {
-        public ArchivosException() :base("Archivo Inexistente")
+        public ArchivosException() 
+            :base("Archivo Inexistente")
         {
+        }
 
+        public ArchivosException(string mensaje)
+            :base(mensaje)
+        {
         }
 
         public ArchivosException(Exception innerException)
