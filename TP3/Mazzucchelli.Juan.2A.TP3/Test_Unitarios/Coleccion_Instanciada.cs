@@ -21,8 +21,6 @@ namespace Test_Unitarios
             {
                 Assert.Fail("La lista Alumnos de Universidad no fue instanciada");
             }
-           
-            
         }
 
         [TestMethod]
@@ -37,8 +35,6 @@ namespace Test_Unitarios
             {
                 Assert.Fail("La lista Alumnos de Universidad no fue instanciada");
             }
-
-
         }
 
         [TestMethod]
@@ -47,14 +43,12 @@ namespace Test_Unitarios
             try
             {
                 Universidad universidad = new Universidad();
-                Assert.IsNotNull(universidad.Profesores);
+                Assert.IsNotNull(universidad.Instructores);
             }
             catch (NullReferenceException e)
             {
                 Assert.Fail("La lista Alumnos de Universidad no fue instanciada");
             }
-
-
         }
     }
 }

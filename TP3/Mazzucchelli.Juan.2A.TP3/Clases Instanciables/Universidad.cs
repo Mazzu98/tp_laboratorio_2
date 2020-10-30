@@ -19,7 +19,7 @@ namespace Clases_Instanciables
 
         public List<Alumno> Alumnos { get { return alumnos; } set { alumnos = value; } }
         public List<Jornada> Jornada { get { return jornada; } set { jornada = value; } }
-        public List<Profesor> Profesores { get { return profesores; } set { profesores = value; } }
+        public List<Profesor> Instructores { get { return profesores; } set { profesores = value; } }
 
         public Jornada this[int indice]
         {
@@ -155,7 +155,7 @@ namespace Clases_Instanciables
             Profesor ret = null;
             if((object)g != null)
             {
-                foreach(Profesor profesor in g.Profesores)
+                foreach(Profesor profesor in g.Instructores)
                 {
                     if(profesor == c)
                     {
@@ -182,7 +182,7 @@ namespace Clases_Instanciables
             Profesor ret = null;
             if ((object)g != null)
             {
-                foreach (Profesor profesor in g.Profesores)
+                foreach (Profesor profesor in g.Instructores)
                 {
                     if (profesor != c)
                     {
