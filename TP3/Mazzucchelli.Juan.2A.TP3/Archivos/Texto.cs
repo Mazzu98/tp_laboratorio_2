@@ -25,6 +25,11 @@ namespace Archivos
                 sw.WriteLine(datos);
                 ret = true;
             }
+            if (!ret)
+            {
+                throw new ArchivosException();
+            }
+            return ret;
             return ret;
         }
 
@@ -42,6 +47,11 @@ namespace Archivos
                 datos = sr.ReadToEnd();
                 ret = true;
             }
+            if (!ret)
+            {
+                throw new ArchivosException();
+            }
+            return ret;
             return ret;
         }
     }
