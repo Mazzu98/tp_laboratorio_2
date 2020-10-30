@@ -1,9 +1,9 @@
-﻿CLASES DE Programacion POR NOMBRE COMPLETO: Lopez,Juan
+﻿CLASES DE Programacion POR NOMBRE COMPLETO: Juarez,Roberto
 NACIONALIDAD: Argentino
-LEGAJO NúMERO: 1
+LEGAJO NúMERO: 2
 CLASES DEL DIA: 
 Programacion
-Programacion
+Legislacion
 
 NOMBRE COMPLETO: Lopez,Juan
 NACIONALIDAD: Argentino

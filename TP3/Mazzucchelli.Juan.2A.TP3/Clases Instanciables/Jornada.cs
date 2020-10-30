@@ -110,9 +110,8 @@ namespace Clases_Instanciables
         public static bool Guardar(Jornada jornada)
         {
             bool ret = false ;
-            Xml<Jornada> xml = new Xml<Jornada>();
             Texto texo = new Texto();
-            ret = xml.Guardar("jornada.xml", jornada) && texo.Guardar("jornada.txt", jornada.ToString());
+            ret = texo.Guardar("jornada.txt", jornada.ToString());
             return ret;
         }
 
@@ -122,11 +121,11 @@ namespace Clases_Instanciables
         /// <returns> Devuelve un string con el contenido del archivo</returns>
         public static string Leer()
         {
-            Jornada jornada = new Jornada();
-            Xml<Jornada> xml = new Xml<Jornada>();
+            string jornada;
+            Texto texo = new Texto();
+            texo.Leer("jornada.txt", out jornada);
 
-            xml.Leer("jornada.txt", out jornada);
-            return jornada.ToString();
+            return jornada;
         }
 
         /// <summary>

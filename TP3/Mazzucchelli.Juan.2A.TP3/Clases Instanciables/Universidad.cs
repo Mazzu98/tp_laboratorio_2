@@ -114,16 +114,16 @@ namespace Clases_Instanciables
         /// compara una Universidad y un Profesor, Seran iguales si el Profesor está en la universidad.
         /// </summary>
         /// <param name="g">Universidad</param>
-        /// <param name="p">Profesor</param>
+        /// <param name="i">Profesor</param>
         /// <returns> Devuelve true si pertenece a la universidad y false si no </returns>
-        public static bool operator ==(Universidad g, Profesor p)
+        public static bool operator ==(Universidad g, Profesor i)
         {
             bool ret = false;
             if ((object)g != null)
             {
                 foreach(Profesor profe in g.profesores)
                 {
-                    if (profe == p)
+                    if (profe == i)
                     {
                         ret = true;
                         break;
@@ -137,27 +137,27 @@ namespace Clases_Instanciables
         /// compara una Universidad y un Profesor, Seran Distintos si el Profesor está en la universidad.
         /// </summary>
         /// <param name="g">Universidad</param>
-        /// <param name="p">Profesor</param>
+        /// <param name="i">Profesor</param>
         /// <returns> Devuelve true si no pertenece a la universidad y false si pertenece </returns>
-        public static bool operator !=(Universidad g, Profesor p)
+        public static bool operator !=(Universidad g, Profesor i)
         {
-            return !(g == p);
+            return !(g == i);
         }
 
         /// <summary>
         /// compara una Universidad y una clase, Seran iguales si la universidad tiene un profesor que de la materia.
         /// </summary>
         /// <param name="g">Universidad</param>
-        /// <param name="c">EClases</param>
+        /// <param name="clase">EClases</param>
         /// <returns> Devuelve true si tiene un profesor y false si no </returns>
-        public static Profesor operator ==(Universidad g, EClases c)
+        public static Profesor operator ==(Universidad g, EClases clase)
         {
             Profesor ret = null;
             if((object)g != null)
             {
                 foreach(Profesor profesor in g.Instructores)
                 {
-                    if(profesor == c)
+                    if(profesor == clase)
                     {
                         ret = profesor;
                         break;
@@ -175,16 +175,16 @@ namespace Clases_Instanciables
         /// compara una Universidad y una clase, Seran disttintos si la universidad no tiene un profesor que de la materia.
         /// </summary>
         /// <param name="g">Universidad</param>
-        /// <param name="c">EClases</param>
+        /// <param name="clase">EClases</param>
         /// <returns> Devuelve true si no tiene un profesor y false si tiene</returns>
-        public static Profesor operator !=(Universidad g, EClases c)
+        public static Profesor operator !=(Universidad g, EClases clase)
         {
             Profesor ret = null;
             if ((object)g != null)
             {
                 foreach (Profesor profesor in g.Instructores)
                 {
-                    if (profesor != c)
+                    if (profesor != clase)
                     {
                         ret = profesor;
                         break;
@@ -199,19 +199,19 @@ namespace Clases_Instanciables
         /// Agrega una clase a la universidad
         /// </summary>
         /// <param name="g">Universidad</param>
-        /// <param name="c">EClases</param>
+        /// <param name="clase">EClases</param>
         /// <returns> Devuelve la universidad </returns>
-        public static Universidad operator +(Universidad g, EClases c)
+        public static Universidad operator +(Universidad g, EClases clase)
         {
             bool hayProfe = false;
             foreach(Profesor profe in g.profesores)
             {
-                if (profe == c)
+                if (profe == clase)
                 {
-                    Jornada nuevaJornada = new Jornada(c, profe);
+                    Jornada nuevaJornada = new Jornada(clase, profe);
                     foreach(Alumno alumno in g.alumnos)
                     {
-                        if(alumno == c)
+                        if(alumno == clase)
                         {
                             nuevaJornada.Alumnos.Add(alumno);
                         }
@@ -232,49 +232,49 @@ namespace Clases_Instanciables
         /// <summary>
         /// Agrega un alumno a la universidad.
         /// </summary>
-        /// <param name="g">Universidad</param>
+        /// <param name="u">Universidad</param>
         /// <param name="a">Alumno</param>
         /// <returns> Devuelve la universidad </returns>
-        public static Universidad operator +(Universidad g, Alumno a)
+        public static Universidad operator +(Universidad u, Alumno a)
         {
-            if (g != a)
+            if (u != a)
             {
-                g.alumnos.Add(a);
+                u.alumnos.Add(a);
             }
             else
             {
                 throw new AlumnoRepetidoException();
             }
           
-            return g;
+            return u;
         }
 
         /// <summary>
         /// Agrega un Profesor a la universidad.
         /// </summary>
-        /// <param name="g">Universidad</param>
+        /// <param name="u">Universidad</param>
         /// <param name="i">Profesor</param>
         /// <returns> Devuelve la universidad </returns>
-        public static Universidad operator +(Universidad g, Profesor i)
+        public static Universidad operator +(Universidad u, Profesor i)
         { 
-            if (g != i)
+            if (u != i)
             {
-                g.profesores.Add(i);
+                u.profesores.Add(i);
             }
-            return g;
+            return u;
         }
 
         /// <summary>
         /// Guarda en un archivo la Universidad
         /// </summary>
-        /// <param name="universidad">Universidad</param>
+        /// <param name="uni">Universidad</param>
         /// <returns> Devuelve true si pudo guardar y false si no</returns>
-        public static bool Guardar(Universidad universidad)
+        public static bool Guardar(Universidad uni)
         {
             bool ret = false;
             Xml<Universidad> xml = new Xml<Universidad>();
-            Texto texo = new Texto();
-            ret = xml.Guardar("universidad.xml", universidad) && texo.Guardar("universidad.txt", universidad.ToString());
+            ret = xml.Guardar("universidad.xml", uni);
+
             return ret;
         }
 
@@ -286,8 +286,8 @@ namespace Clases_Instanciables
         {
             Universidad universidad = new Universidad();
             Xml<Universidad> xml = new Xml<Universidad>();
+            xml.Leer("universidad.xml", out universidad);
 
-            xml.Leer("jornada.txt", out universidad);
             return universidad.ToString();
         }
 

@@ -26,6 +26,10 @@ namespace Archivos
                 ser.Serialize(tw, datos);
                 ret = true;
             }
+            if(!ret)
+            {
+                throw new ArchivosException();
+            }
             return ret;
         }
 
@@ -43,6 +47,10 @@ namespace Archivos
                 XmlSerializer ser = new XmlSerializer(typeof(T));
                 datos = (T)ser.Deserialize(tr);
                 ret = true;
+            }
+            if (!ret)
+            {
+                throw new ArchivosException();
             }
             return ret;
         }

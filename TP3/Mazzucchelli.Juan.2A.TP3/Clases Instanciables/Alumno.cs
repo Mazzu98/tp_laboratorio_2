@@ -68,7 +68,7 @@ namespace Clases_Instanciables
             {
                 sb.AppendLine($"ESTADO DE CUENTA: {this.estadoCuenta}");
             }
-            sb.AppendLine($"TOMA CLASES DE {this.claseQueToma}");
+            sb.AppendLine(this.ParticiparEnClase());
 
             return sb.ToString();
         }
@@ -88,7 +88,7 @@ namespace Clases_Instanciables
         /// <returns> Devuelve un sttring con las clases que toma el Alumno</returns>
         protected override string ParticiparEnClase()
         {
-            return "TOMA CLASE DE " + this.claseQueToma;
+            return "TOMA CLASES DE " + this.claseQueToma;
         }
 
         /// <summary>
