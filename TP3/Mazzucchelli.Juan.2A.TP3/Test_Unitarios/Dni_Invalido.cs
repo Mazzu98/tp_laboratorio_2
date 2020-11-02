@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Clases_Instanciables;
-using Clases_Abstractas;
+using EntidadesAbstractas;
 using Excepciones;
 using System.Diagnostics;
 using System.Runtime.Remoting.Channels;
