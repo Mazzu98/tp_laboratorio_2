@@ -1,4 +1,4 @@
-﻿using Clases_Abstractas;
+﻿using EntidadesAbstractas;
 using System;
 using System.Collections.Generic;
 using System.Linq;

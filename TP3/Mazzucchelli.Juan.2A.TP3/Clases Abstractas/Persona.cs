@@ -8,7 +8,7 @@ using System.Runtime.InteropServices.WindowsRuntime;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clases_Abstractas
+namespace EntidadesAbstractas
 {
     public abstract class Persona
     {

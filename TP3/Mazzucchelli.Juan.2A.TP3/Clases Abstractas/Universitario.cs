@@ -4,8 +4,9 @@ using System.Linq;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
+using EntidadesAbstractas;
 
-namespace Clases_Abstractas
+namespace EntidadesAbstractas
 {
     public abstract class Universitario : Persona
     {
