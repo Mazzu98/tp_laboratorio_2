@@ -1,0 +1,11 @@
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Clases Instanciables\bin\Debug\Archivos.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Clases Instanciables\bin\Debug\Excepciones.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Clases Instanciables\bin\Debug\Archivos.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Clases Instanciables\bin\Debug\Excepciones.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Clases Instanciables\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Clases Instanciables\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Clases Instanciables\obj\Debug\Entidades.csproj.CopyComplete
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

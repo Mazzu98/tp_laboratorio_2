@@ -1,0 +1,8 @@
+﻿21/11/2020 18:43:42
+Id: 12
+Laptop
+Gama: Alta
+Precio: $127000
+Bluetooth: Si
+
+

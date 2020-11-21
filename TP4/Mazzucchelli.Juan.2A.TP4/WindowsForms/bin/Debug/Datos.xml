@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Persona>
+    <id>1</id>
+    <tipo>Desktop</tipo>
+    <gama>Alta</gama>
+    <precio>100000</precio>
+    <perisfericos>false</perisfericos>
+    <bluetooth>false</bluetooth>
+  </Persona>
+  <Persona>
+    <id>2</id>
+    <tipo>Laptop</tipo>
+    <gama>Media</gama>
+    <precio>90000</precio>
+    <perisfericos>false</perisfericos>
+    <bluetooth>true</bluetooth>
+  </Persona>
+  <Persona>
+    <id>3</id>
+    <tipo>Laptop</tipo>
+    <gama>Baja</gama>
+    <precio>60000</precio>
+    <perisfericos>false</perisfericos>
+    <bluetooth>false</bluetooth>
+  </Persona>
+</DocumentElement>

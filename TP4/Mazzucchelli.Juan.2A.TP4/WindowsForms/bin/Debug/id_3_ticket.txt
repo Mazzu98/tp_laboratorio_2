@@ -1,0 +1,8 @@
+﻿17/11/2020 22:09:29
+Id: 3
+Laptop
+Gama: Baja
+Precio: $60000
+Bluetooth: No
+
+

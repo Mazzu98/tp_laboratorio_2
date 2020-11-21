@@ -1,0 +1,30 @@
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\bin\Debug\Test.exe.config
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\bin\Debug\Test.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\bin\Debug\Test.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\bin\Debug\Archivos.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\bin\Debug\Clases Abstractas.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\bin\Debug\Clases Instanciables.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\bin\Debug\Excepciones.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\bin\Debug\Archivos.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\bin\Debug\Clases Abstractas.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\bin\Debug\Clases Instanciables.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\bin\Debug\Excepciones.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\obj\Debug\Test.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP3\Mazzucchelli.Juan.2A.TP3\Test\obj\Debug\Test.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\bin\Debug\Test.exe.config
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\bin\Debug\Test.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\bin\Debug\Test.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\bin\Debug\Archivos.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\bin\Debug\Clases Instanciables.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\bin\Debug\Excepciones.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\bin\Debug\Archivos.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\bin\Debug\Clases Instanciables.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\bin\Debug\Excepciones.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\obj\Debug\Test.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\Test\obj\Debug\Test.pdb

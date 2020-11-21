@@ -1,0 +1,8 @@
+﻿21/11/2020 18:36:08
+Id: 19
+Laptop
+Gama: Baja
+Precio: $0
+Bluetooth: No
+
+
