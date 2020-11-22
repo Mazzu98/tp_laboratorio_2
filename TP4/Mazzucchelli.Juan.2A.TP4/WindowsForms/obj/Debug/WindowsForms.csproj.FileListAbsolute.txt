@@ -16,3 +16,21 @@ D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.J
 D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\obj\Debug\WindowsForms.exe
 D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\obj\Debug\WindowsForms.pdb
 D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FormPrincipal.resources
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\bin\Debug\WindowsForms.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\bin\Debug\Archivos.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\bin\Debug\Clases Instanciables.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\bin\Debug\Excepciones.dll
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\bin\Debug\Archivos.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\bin\Debug\Clases Instanciables.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\bin\Debug\Excepciones.pdb
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FormPrincipal.resources
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\obj\Debug\WindowsForms.FormCompu.resources
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\obj\Debug\WindowsForms.exe
+D:\Documentos (S)\A tecnicatura\2do Cuatrimestre\Programacion\C# Projects\tp_laboratorio_2\TP4\Mazzucchelli.Juan.2A.TP4\WindowsForms\obj\Debug\WindowsForms.pdb

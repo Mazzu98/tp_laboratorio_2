@@ -1,0 +1,8 @@
+﻿21/11/2020 21:03:29
+Id: 27
+Desktop
+Gama: Alta
+Precio: $110000
+perisfericos: Si
+
+

@@ -185,7 +185,6 @@ namespace WindowsForms
                 DataRow fila = this.dt.Rows[i];
                 Computadora compu = TomarDatosDeFila(fila);
 
-
                 FormCompu frm = new FormCompu(compu, EFormCompu.Modificar);
                 frm.evento += frm.CerrarHilo;
                 if (frm.ShowDialog() == DialogResult.OK)
@@ -217,11 +216,10 @@ namespace WindowsForms
         private void btnEliminar_Click(object sender, EventArgs e)
         {
             try
-            {
-                int i = this.dataGridView1.SelectedRows[0].Index;
-                DataRow fila = this.dt.Rows[i];
-                Computadora compu = TomarDatosDeFila(fila);
+            { 
+                DataRowView fila = (DataRowView)dataGridView1.CurrentRow.DataBoundItem;
 
+                Computadora compu = TomarDatosDeFila(fila.Row);
 
                 FormCompu frm = new FormCompu(compu, EFormCompu.Eliminar);
                 frm.evento += frm.CerrarHilo;
@@ -244,10 +242,10 @@ namespace WindowsForms
         /// <param name="e">EventArgs</param>
         private void btnVender_Click(object sender, EventArgs e)
         {
-            int i = this.dataGridView1.SelectedRows[0].Index;
+            
             string ticket;
-            DataRow fila = this.dt.Rows[i];
-            Computadora compu = TomarDatosDeFila(fila);
+            DataRowView fila = (DataRowView)dataGridView1.CurrentRow.DataBoundItem;
+            Computadora compu = TomarDatosDeFila(fila.Row);
             Tickets t = new Tickets();
             ticket = t.hacerTicket(compu);
             DialogResult dialogResult = MessageBox.Show(ticket, "Ticket",MessageBoxButtons.OKCancel);

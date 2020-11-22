@@ -1,0 +1,8 @@
+﻿21/11/2020 21:07:07
+Id: 29
+Desktop
+Gama: Media
+Precio: $68000
+perisfericos: No
+
+
