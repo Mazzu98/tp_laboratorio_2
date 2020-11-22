@@ -1,0 +1,8 @@
+﻿22/11/2020 18:32:32
+Id: 33
+Desktop
+Gama: Baja
+Precio: $49999
+perisfericos: No
+
+
